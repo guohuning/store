@@ -1,2 +1,3 @@
-a store werbsite without framework
-just for practice java web
+- 一个简单的购物网站
+- 不使用框架
+- 练习javaweb知识
