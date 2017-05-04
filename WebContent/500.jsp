@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	亲，您访问的页面不存在
+	服务器报了一个bug，我们正在努力抢修~~~~~
 </body>
 </html>
